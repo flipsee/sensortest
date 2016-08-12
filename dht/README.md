@@ -10,7 +10,7 @@ Test status:
 - ESP8266-12E(NodeMCU): Not Tested
 
 Wiring:
-- 
+- pi: dht11_pi.png (pin1=GPIO5, pin2=3.3v,pin3=GND)
 
 Sample:
 - dht11.py is the library used by the PI gettemperature.py
