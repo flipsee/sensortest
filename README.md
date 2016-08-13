@@ -8,3 +8,7 @@ Pinout references:
 - ESP8266-12E: http://crufti.com/getting-started-with-espruino-on-esp8266/
 - Raspberry PI 2\3: https://pinout.xyz/
 
+
+Source:
+- https://tkkrlab.nl/wiki/Arduino_37_sensors
+
