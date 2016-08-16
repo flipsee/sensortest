@@ -12,3 +12,4 @@ Pinout references:
 Source:
 - https://tkkrlab.nl/wiki/Arduino_37_sensors
 
+CH341  Driver: http://www.wch.cn/download/CH341SER_LINUX_ZIP.html
