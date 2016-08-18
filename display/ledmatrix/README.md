@@ -8,7 +8,7 @@ Arduino:
 - Driver: LedControlMS.zip
 - Sample: MakeSpace_LEDMatrix.ino in the zip above.
 
-ESP8266:
+NodeMCU:
 - Pin: 5pin (VCC=3v, GND, DIN=D5/GPIO14, CS=D6/GPIO12, CLK=D7/GPIO13)
 - Driver: same with arduino above
 - Sample: same with the arduino sample but change the line#12 to LedControl lc=LedControl(14,13,12,1);
