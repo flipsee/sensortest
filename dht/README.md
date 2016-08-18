@@ -1,4 +1,4 @@
-DHT 11 can be used using 3.3v - 5.5v board directly.
+DHT11(KY-015) can be used using 3.3v - 5.5v directly.
 Note: Reading minimum interval is 5 seconds.
 
 Datasheet: http://www.seeedstudio.com/wiki/images/3/31/DHT11.pdf
