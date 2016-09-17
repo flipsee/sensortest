@@ -5,7 +5,8 @@ Sample is from diff sources
 
 Pinout references:
 - Arduino Uno: http://www.electroschematics.com/7958/arduino-uno-pinout/
-- ESP8266-12E: http://crufti.com/getting-started-with-espruino-on-esp8266/
+- NodeMCU(ESP8266-12E): http://crufti.com/getting-started-with-espruino-on-esp8266/
+  Note: internal Led pin is pin 2
 - Raspberry PI 2\3: https://pinout.xyz/
 
 
